@@ -1,4 +1,4 @@
-You can see this project on http://cafeostap.ml/  
+
 Such technologies are used:  
 Spring_MVC,  
 Spring Social,  
